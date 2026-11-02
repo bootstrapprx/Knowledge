@@ -1,7 +1,7 @@
 ---
 tipo: resumo-norma
 norma: "NBC TG 16 (R2)"
-titulo: "Estoques"
+titulo: 'Estoques'
 grupo: "02 - NBC TG"
 pdf: "[[NBC TG 16 (R2).pdf]]"
 cpc: "CPC 16R1"
@@ -15,7 +15,7 @@ tags:
   - custo
 ---
 
-# 📦 NBC TG 16 (R2) — Estoques
+# NBC TG 16 (R2) — Estoques
 
 > [!abstract] Em 30 segundos
 > Estoque é ativo **mantido para venda**, **em produção** ou **na forma de materiais/suprimentos** a consumir. Mensura-se pelo **menor valor entre o custo e o valor realizável líquido** (VRL). O custo captura tudo o que foi gasto para colocar o item **no local e na condição atuais** — e nada além disso. Se o preço esperado de venda cair abaixo do custo, reconhece-se a redução (**write down**) no resultado; se as condições melhorarem, a perda pode ser **revertida até o limite original**.
@@ -154,13 +154,13 @@ A norma recomenda ainda abrir por classificação (mercadorias, materiais, elabo
 
 | Norma | Por que se conecta |
 | --- | --- |
-| [[NBC TG 29 (R2) - Resumo\|NBC TG 29]] | Produto agrícola na colheita define o custo inicial (item 20) |
-| [[NBC TG 20 (R2) - Resumo\|NBC TG 20]] | Define quando juros entram no custo (item 17) |
-| [[NBC TG 47 - Resumo\|NBC TG 47]] | Custos de contrato que não geram estoque (item 8) |
-| [[NBC TG 25 (R2) - Resumo\|NBC TG 25]] | Contratos firmes onerosos viram provisão (item 31) |
-| [[NBC TG 01 (R4) - Resumo\|NBC TG 01]] | Estoques estão fora do teste de recuperabilidade — o VRL faz esse papel |
-| [[NBC TG 12 (R1) - Resumo\|NBC TG 12]] | Ajuste a valor presente em compras a prazo (item 18) |
-| [[NBC TG 27 (R4) - Resumo\|NBC TG 27]] | Estoque transferido para imobilizado de construção própria (item 35) |
+| [[NBC TG 29 (R2) - Resumo|NBC TG 29]] | Produto agrícola na colheita define o custo inicial (item 20) |
+| [[NBC TG 20 (R2) - Resumo|NBC TG 20]] | Define quando juros entram no custo (item 17) |
+| [[NBC TG 47 - Resumo|NBC TG 47]] | Custos de contrato que não geram estoque (item 8) |
+| [[NBC TG 25 (R2) - Resumo|NBC TG 25]] | Contratos firmes onerosos viram provisão (item 31) |
+| [[NBC TG 01 (R4) - Resumo|NBC TG 01]] | Estoques estão fora do teste de recuperabilidade — o VRL faz esse papel |
+| [[NBC TG 12 (R1) - Resumo|NBC TG 12]] | Ajuste a valor presente em compras a prazo (item 18) |
+| [[NBC TG 27 (R4) - Resumo|NBC TG 27]] | Estoque transferido para imobilizado de construção própria (item 35) |
 
 ## 📄 Fonte
 

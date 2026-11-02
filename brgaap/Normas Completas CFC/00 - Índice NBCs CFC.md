@@ -126,6 +126,111 @@ tags:
 | --- | --- | --- | --- | --- | --- |
 | [[OTG 2003 (R1).pdf|OTG 2003 (R1)]] | — | OTG 2003 – Orientações sobre a aplicação da ITG 2003 (R1) - Entidade Desportiva | — | — | [CFC](<https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2024/OTG2003(R1)&arquivo=OTG2003(R1).doc>) |
 
+## Navegação dos resumos
+
+> [!abstract] Cobertura editorial
+> Esta coleção contém um resumo navegável para cada um dos **70 PDFs oficiais**. Cada nota combina ficha rápida, conceitos, checklist, diagrama Mermaid, reconhecimento/mensuração, divulgação, erros comuns e conexões com outras normas. O PDF permanece a fonte normativa; o resumo é material de estudo e consulta.
+
+```mermaid
+flowchart LR
+    A["NBCs CFC
+70 normas"] --> B["Estrutura Conceitual
+1"]
+    A --> C["NBC TG
+44"]
+    A --> D["ITG
+16"]
+    A --> E["CTG
+8"]
+    A --> F["OTG
+1"]
+    B --> G["Conceitos e fundamentos"]
+    C --> H["Normas técnicas gerais"]
+    D --> I["Interpretações técnicas"]
+    E --> J["Comunicados técnicos"]
+    F --> K["Orientações técnicas"]
+```
+
+### Estrutura Conceitual
+- [[NBC TG ESTRUTURA CONCEITUAL - Resumo|NBC TG ESTRUTURA CONCEITUAL — Resumo]]
+
+### NBC TG
+- [[NBC TG 01 (R4) - Resumo|NBC TG 01 (R4) — Resumo]] · [[NBC TG 01 (R4).pdf|PDF]]
+- [[NBC TG 02 (R3) - Resumo|NBC TG 02 (R3) — Resumo]] · [[NBC TG 02 (R3).pdf|PDF]]
+- [[NBC TG 03 (R3) - Resumo|NBC TG 03 (R3) — Resumo]] · [[NBC TG 03 (R3).pdf|PDF]]
+- [[NBC TG 04 (R4) - Resumo|NBC TG 04 (R4) — Resumo]] · [[NBC TG 04 (R4).pdf|PDF]]
+- [[NBC TG 05 (R3) - Resumo|NBC TG 05 (R3) — Resumo]] · [[NBC TG 05 (R3).pdf|PDF]]
+- [[NBC TG 06 (R3) - Resumo|NBC TG 06 (R3) — Resumo]] · [[NBC TG 06 (R3).pdf|PDF]]
+- [[NBC TG 07 (R2) - Resumo|NBC TG 07 (R2) — Resumo]] · [[NBC TG 07 (R2).pdf|PDF]]
+- [[NBC TG 09 (R1) - Resumo|NBC TG 09 (R1) — Resumo]] · [[NBC TG 09 (R1).pdf|PDF]]
+- [[NBC TG 10 (R3) - Resumo|NBC TG 10 (R3) — Resumo]] · [[NBC TG 10 (R3).pdf|PDF]]
+- [[NBC TG 12 (R1) - Resumo|NBC TG 12 (R1) — Resumo]] · [[NBC TG 12 (R1).pdf|PDF]]
+- [[NBC TG 15 (R4) - Resumo|NBC TG 15 (R4) — Resumo]] · [[NBC TG 15 (R4).pdf|PDF]]
+- [[NBC TG 16 (R2) - Resumo|NBC TG 16 (R2) — Resumo]] · [[NBC TG 16 (R2).pdf|PDF]]
+- [[NBC TG 18 (R4) - Resumo|NBC TG 18 (R4) — Resumo]] · [[NBC TG 18 (R4).pdf|PDF]]
+- [[NBC TG 19 (R2) - Resumo|NBC TG 19 (R2) — Resumo]] · [[NBC TG 19 (R2).pdf|PDF]]
+- [[NBC TG 20 (R2) - Resumo|NBC TG 20 (R2) — Resumo]] · [[NBC TG 20 (R2).pdf|PDF]]
+- [[NBC TG 21 (R4) - Resumo|NBC TG 21 (R4) — Resumo]] · [[NBC TG 21 (R4).pdf|PDF]]
+- [[NBC TG 22 (R2) - Resumo|NBC TG 22 (R2) — Resumo]] · [[NBC TG 22 (R2).pdf|PDF]]
+- [[NBC TG 23 (R2) - Resumo|NBC TG 23 (R2) — Resumo]] · [[NBC TG 23 (R2).pdf|PDF]]
+- [[NBC TG 24 (R2) - Resumo|NBC TG 24 (R2) — Resumo]] · [[NBC TG 24 (R2).pdf|PDF]]
+- [[NBC TG 25 (R2) - Resumo|NBC TG 25 (R2) — Resumo]] · [[NBC TG 25 (R2).pdf|PDF]]
+- [[NBC TG 26 (R5) - Resumo|NBC TG 26 (R5) — Resumo]] · [[NBC TG 26 (R5).pdf|PDF]]
+- [[NBC TG 27 (R4) - Resumo|NBC TG 27 (R4) — Resumo]] · [[NBC TG 27 (R4).pdf|PDF]]
+- [[NBC TG 28 (R4) - Resumo|NBC TG 28 (R4) — Resumo]] · [[NBC TG 28 (R4).pdf|PDF]]
+- [[NBC TG 29 (R2) - Resumo|NBC TG 29 (R2) — Resumo]] · [[NBC TG 29 (R2).pdf|PDF]]
+- [[NBC TG 31 (R4) - Resumo|NBC TG 31 (R4) — Resumo]] · [[NBC TG 31 (R4).pdf|PDF]]
+- [[NBC TG 32 (R4) - Resumo|NBC TG 32 (R4) — Resumo]] · [[NBC TG 32 (R4).pdf|PDF]]
+- [[NBC TG 33 (R2) - Resumo|NBC TG 33 (R2) — Resumo]] · [[NBC TG 33 (R2).pdf|PDF]]
+- [[NBC TG 35 (R2) - Resumo|NBC TG 35 (R2) — Resumo]] · [[NBC TG 35 (R2).pdf|PDF]]
+- [[NBC TG 36 (R3) - Resumo|NBC TG 36 (R3) — Resumo]] · [[NBC TG 36 (R3).pdf|PDF]]
+- [[NBC TG 37 (R5) - Resumo|NBC TG 37 (R5) — Resumo]] · [[NBC TG 37 (R5).pdf|PDF]]
+- [[NBC TG 39 (R5) - Resumo|NBC TG 39 (R5) — Resumo]] · [[NBC TG 39 (R5).pdf|PDF]]
+- [[NBC TG 40 (R3) - Resumo|NBC TG 40 (R3) — Resumo]] · [[NBC TG 40 (R3).pdf|PDF]]
+- [[NBC TG 41 (R2) - Resumo|NBC TG 41 (R2) — Resumo]] · [[NBC TG 41 (R2).pdf|PDF]]
+- [[NBC TG 42 - Resumo|NBC TG 42 — Resumo]] · [[NBC TG 42.pdf|PDF]]
+- [[NBC TG 43 - Resumo|NBC TG 43 — Resumo]] · [[NBC TG 43.pdf|PDF]]
+- [[NBC TG 44 - Resumo|NBC TG 44 — Resumo]] · [[NBC TG 44.pdf|PDF]]
+- [[NBC TG 45 (R3) - Resumo|NBC TG 45 (R3) — Resumo]] · [[NBC TG 45 (R3).pdf|PDF]]
+- [[NBC TG 46 (R2) - Resumo|NBC TG 46 (R2) — Resumo]] · [[NBC TG 46 (R2).pdf|PDF]]
+- [[NBC TG 47 - Resumo|NBC TG 47 — Resumo]] · [[NBC TG 47.pdf|PDF]]
+- [[NBC TG 48 - Resumo|NBC TG 48 — Resumo]] · [[NBC TG 48.pdf|PDF]]
+- [[NBC TG 49 - Resumo|NBC TG 49 — Resumo]] · [[NBC TG 49.pdf|PDF]]
+- [[NBC TG 50 - Resumo|NBC TG 50 — Resumo]] · [[NBC TG 50.pdf|PDF]]
+- [[NBC TG 51 - Resumo|NBC TG 51 — Resumo]] · [[NBC TG 51.pdf|PDF]]
+- [[NBC TG 900 - Resumo|NBC TG 900 — Resumo]] · [[NBC TG 900.pdf|PDF]]
+
+### ITG
+- [[ITG 01 (R1) - Resumo|ITG 01 (R1) — Resumo]] · [[ITG 01 (R1).pdf|PDF]]
+- [[ITG 07 (R1) - Resumo|ITG 07 (R1) — Resumo]] · [[ITG 07 (R1).pdf|PDF]]
+- [[ITG 08 - Resumo|ITG 08 — Resumo]] · [[ITG 08.pdf|PDF]]
+- [[ITG 09 (R2) - Resumo|ITG 09 (R2) — Resumo]] · [[ITG 09 (R2).pdf|PDF]]
+- [[ITG 10 - Resumo|ITG 10 — Resumo]] · [[ITG 10.pdf|PDF]]
+- [[ITG 12 - Resumo|ITG 12 — Resumo]] · [[ITG 12.pdf|PDF]]
+- [[ITG 13 (R2) - Resumo|ITG 13 (R2) — Resumo]] · [[ITG 13 (R2).pdf|PDF]]
+- [[ITG 15 - Resumo|ITG 15 — Resumo]] · [[ITG 15.pdf|PDF]]
+- [[ITG 16 (R2) - Resumo|ITG 16 (R2) — Resumo]] · [[ITG 16 (R2).pdf|PDF]]
+- [[ITG 17 - Resumo|ITG 17 — Resumo]] · [[ITG 17.pdf|PDF]]
+- [[ITG 18 - Resumo|ITG 18 — Resumo]] · [[ITG 18.pdf|PDF]]
+- [[ITG 19 - Resumo|ITG 19 — Resumo]] · [[ITG 19.pdf|PDF]]
+- [[ITG 20 - Resumo|ITG 20 — Resumo]] · [[ITG 20.pdf|PDF]]
+- [[ITG 21 - Resumo|ITG 21 — Resumo]] · [[ITG 21.pdf|PDF]]
+- [[ITG 22 - Resumo|ITG 22 — Resumo]] · [[ITG 22.pdf|PDF]]
+- [[ITG 23 - Resumo|ITG 23 — Resumo]] · [[ITG 23.pdf|PDF]]
+
+### CTG
+- [[CTG 01 - Resumo|CTG 01 — Resumo]] · [[CTG 01.pdf|PDF]]
+- [[CTG 04 - Resumo|CTG 04 — Resumo]] · [[CTG 04.pdf|PDF]]
+- [[CTG 05 - Resumo|CTG 05 — Resumo]] · [[CTG 05.pdf|PDF]]
+- [[CTG 06 - Resumo|CTG 06 — Resumo]] · [[CTG 06.pdf|PDF]]
+- [[CTG 07 (R1) - Resumo|CTG 07 (R1) — Resumo]] · [[CTG 07 (R1).pdf|PDF]]
+- [[CTG 08 - Resumo|CTG 08 — Resumo]] · [[CTG 08.pdf|PDF]]
+- [[CTG 09 - Resumo|CTG 09 — Resumo]] · [[CTG 09.pdf|PDF]]
+- [[CTG 10 - Resumo|CTG 10 — Resumo]] · [[CTG 10.pdf|PDF]]
+
+### OTG
+- [[OTG 2003 (R1) - Resumo|OTG 2003 (R1) — Resumo]] · [[OTG 2003 (R1).pdf|PDF]]
+
 ## Observações
 
 - Os PDFs foram baixados diretamente do Sistema de Resoluções do CFC.

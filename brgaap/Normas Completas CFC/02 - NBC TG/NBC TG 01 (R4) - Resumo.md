@@ -1,7 +1,7 @@
 ---
 tipo: resumo-norma
 norma: "NBC TG 01 (R4)"
-titulo: "Redução ao Valor Recuperável de Ativos"
+titulo: 'Redução ao Valor Recuperável de Ativos'
 grupo: "02 - NBC TG"
 pdf: "[[NBC TG 01 (R4).pdf]]"
 cpc: "CPC 01R1"
@@ -14,7 +14,7 @@ tags:
   - impairment
 ---
 
-# 🧭 NBC TG 01 (R4) — Redução ao Valor Recuperável de Ativos
+# NBC TG 01 (R4) — Redução ao Valor Recuperável de Ativos
 
 > [!abstract] Em 30 segundos
 > Nenhum ativo pode ficar registrado por valor maior do que a entidade espera recuperar **pelo uso ou pela venda**. Se o **valor contábil** passar do **valor recuperável**, reconheça uma **perda por desvalorização**. O valor recuperável é o **maior** entre o valor justo líquido de despesas de venda e o valor em uso. Ágio (goodwill) e intangíveis com vida útil indefinida são testados **todo ano**, mesmo sem sinal de problema.
@@ -178,19 +178,19 @@ Premissas práticas:
 
 | Norma | Por que se conecta |
 | --- | --- |
-| [[NBC TG 46 (R2) - Resumo\|NBC TG 46]] | Define como mensurar o valor justo |
-| [[NBC TG 27 (R4) - Resumo\|NBC TG 27]] | Ativo imobilizado: reavaliação, depreciação e vida útil |
-| [[NBC TG 04 (R4) - Resumo\|NBC TG 04]] | Ativo intangível: vida útil indefinida e goodwill gerado internamente |
-| [[NBC TG 15 (R4) - Resumo\|NBC TG 15]] | Goodwill reconhecido em combinação de negócios |
-| [[NBC TG 32 (R4) - Resumo\|NBC TG 32]] | Tributos diferidos após a perda |
-| [[NBC TG 16 (R2) - Resumo\|NBC TG 16]] | Estoques ficam fora desta norma |
-| [[NBC TG 28 (R4) - Resumo\|NBC TG 28]] | Propriedade para investimento ao valor justo fica fora |
-| [[NBC TG 29 (R2) - Resumo\|NBC TG 29]] | Ativo biológico ao valor justo fica fora |
-| [[NBC TG 31 (R4) - Resumo\|NBC TG 31]] | Mantidos para venda ficam fora |
-| [[NBC TG 36 (R3) - Resumo\|NBC TG 36]] | Controladas e consolidação |
-| [[NBC TG 18 (R4) - Resumo\|NBC TG 18]] | Coligadas e controladas em conjunto |
-| [[NBC TG 19 (R2) - Resumo\|NBC TG 19]] | Negócios em conjunto |
-| [[NBC TG 48 - Resumo\|NBC TG 48]] | Instrumentos financeiros ficam fora desta norma |
+| [[NBC TG 46 (R2) - Resumo|NBC TG 46]] | Define como mensurar o valor justo |
+| [[NBC TG 27 (R4) - Resumo|NBC TG 27]] | Ativo imobilizado: reavaliação, depreciação e vida útil |
+| [[NBC TG 04 (R4) - Resumo|NBC TG 04]] | Ativo intangível: vida útil indefinida e goodwill gerado internamente |
+| [[NBC TG 15 (R4) - Resumo|NBC TG 15]] | Goodwill reconhecido em combinação de negócios |
+| [[NBC TG 32 (R4) - Resumo|NBC TG 32]] | Tributos diferidos após a perda |
+| [[NBC TG 16 (R2) - Resumo|NBC TG 16]] | Estoques ficam fora desta norma |
+| [[NBC TG 28 (R4) - Resumo|NBC TG 28]] | Propriedade para investimento ao valor justo fica fora |
+| [[NBC TG 29 (R2) - Resumo|NBC TG 29]] | Ativo biológico ao valor justo fica fora |
+| [[NBC TG 31 (R4) - Resumo|NBC TG 31]] | Mantidos para venda ficam fora |
+| [[NBC TG 36 (R3) - Resumo|NBC TG 36]] | Controladas e consolidação |
+| [[NBC TG 18 (R4) - Resumo|NBC TG 18]] | Coligadas e controladas em conjunto |
+| [[NBC TG 19 (R2) - Resumo|NBC TG 19]] | Negócios em conjunto |
+| [[NBC TG 48 - Resumo|NBC TG 48]] | Instrumentos financeiros ficam fora desta norma |
 
 ## 📄 Fonte
 

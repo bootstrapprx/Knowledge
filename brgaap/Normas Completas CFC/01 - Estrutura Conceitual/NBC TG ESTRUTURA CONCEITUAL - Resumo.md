@@ -1,7 +1,7 @@
 ---
 tipo: resumo-norma
 norma: "NBC TG ESTRUTURA CONCEITUAL"
-titulo: "Estrutura Conceitual para Relatório Financeiro"
+titulo: 'Estrutura Conceitual para Relatório Financeiro'
 grupo: "01 - Estrutura Conceitual"
 pdf: "[[NBC TG ESTRUTURA CONCEITUAL.pdf]]"
 cpc: "CPC 00R2"
@@ -14,7 +14,7 @@ tags:
   - relatorio-financeiro
 ---
 
-# 🏛️ NBC TG ESTRUTURA CONCEITUAL — Estrutura Conceitual para Relatório Financeiro
+# NBC TG ESTRUTURA CONCEITUAL — Estrutura Conceitual para Relatório Financeiro
 
 > [!abstract] Em 30 segundos
 > A Estrutura Conceitual é o **conjunto de conceitos que sustenta todas as normas**. Ela define para que serve o relatório financeiro, quais características tornam a informação útil, o que é ativo, passivo, patrimônio líquido, receita e despesa, quando reconhecer e desreconhecer, como mensurar e como apresentar e divulgar. **Não é uma norma**: nenhum conceito aqui se sobrepõe ao texto de uma NBC ou IFRS específica (SP1.2).
@@ -123,16 +123,16 @@ Sob o conceito **financeiro**, capital é o investimento em dinheiro ou poder de
 
 | Norma | Por que se conecta |
 | --- | --- |
-| [[NBC TG 26 (R5) - Resumo\|NBC TG 26]] | Aplica os conceitos de apresentação, classificação e agregação |
-| [[NBC TG 46 (R2) - Resumo\|NBC TG 46]] | Detalha a mensuração do valor justo |
-| [[NBC TG 01 (R4) - Resumo\|NBC TG 01]] | Redução ao valor recuperável do custo histórico |
-| [[NBC TG 47 - Resumo\|NBC TG 47]] | Reconhecimento de receita sob a definição de ativo e passivo |
-| [[NBC TG 48 - Resumo\|NBC TG 48]] | Reconhecimento e desreconhecimento de instrumentos financeiros |
-| [[NBC TG 25 (R2) - Resumo\|NBC TG 25]] | Provisões e contingências: obrigação presente e incerteza |
-| [[NBC TG 15 (R4) - Resumo\|NBC TG 15]] | Aquisição e mensuração de ativos e passivos identificáveis |
-| [[NBC TG 27 (R4) - Resumo\|NBC TG 27]] | Custo histórico, depreciação e reavaliação |
-| [[NBC TG 04 (R4) - Resumo\|NBC TG 04]] | Definição e reconhecimento de ativo intangível |
-| [[NBC TG 51 - Resumo\|NBC TG 51]] | Requisitos gerais de apresentação e divulgação |
+| [[NBC TG 26 (R5) - Resumo|NBC TG 26]] | Aplica os conceitos de apresentação, classificação e agregação |
+| [[NBC TG 46 (R2) - Resumo|NBC TG 46]] | Detalha a mensuração do valor justo |
+| [[NBC TG 01 (R4) - Resumo|NBC TG 01]] | Redução ao valor recuperável do custo histórico |
+| [[NBC TG 47 - Resumo|NBC TG 47]] | Reconhecimento de receita sob a definição de ativo e passivo |
+| [[NBC TG 48 - Resumo|NBC TG 48]] | Reconhecimento e desreconhecimento de instrumentos financeiros |
+| [[NBC TG 25 (R2) - Resumo|NBC TG 25]] | Provisões e contingências: obrigação presente e incerteza |
+| [[NBC TG 15 (R4) - Resumo|NBC TG 15]] | Aquisição e mensuração de ativos e passivos identificáveis |
+| [[NBC TG 27 (R4) - Resumo|NBC TG 27]] | Custo histórico, depreciação e reavaliação |
+| [[NBC TG 04 (R4) - Resumo|NBC TG 04]] | Definição e reconhecimento de ativo intangível |
+| [[NBC TG 51 - Resumo|NBC TG 51]] | Requisitos gerais de apresentação e divulgação |
 
 ## 📄 Fonte
 
