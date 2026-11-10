@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* =====================================================================
+   apostila.css — Inteligência Artificial e Ciência de Dados
+   para Concursos Públicos (livro unificado)
+   Base: esqueleto oficial (Sigil) · acabamento: fase 1
+   Classes de produção: .pendente .proc .rot .nav-q .gabarito .alt
+   Caixas: .ponto-chave .pegadinha .fundamento .dica
+   Estruturas: .questao .comentario table.quadro .glossario .capa
+   ===================================================================== */
+html { font-size: 100%; }
+body { font-family: serif; line-height: 1.5; margin: 0 5%; text-align: justify; hyphens: auto; -epub-hyphens: auto; }
+h1 { font-size: 1.8em; margin: 1.5em 0 .6em; text-align: left; page-break-before: always; line-height: 1.2; }
+h2 { font-size: 1.35em; margin: 1.6em 0 .5em; text-align: left; page-break-after: avoid; }
+h3 { font-size: 1.1em; margin: 1.2em 0 .4em; text-align: left; page-break-after: avoid; }
+h4 { font-size: 1em; margin: 1em 0 .3em; text-align: left; page-break-after: avoid; }
+p { margin: 0 0 .8em; }
+.cap-num { display: block; font-size: .6em; letter-spacing: .15em; text-transform: uppercase; color: #555; }
+
+/* Marcador de trabalho pendente — visível na revisão */
+.pendente { font-family: monospace; font-size: .85em; background: #fff3cd; color: #664d03; padding: 0 .3em; }
+
+/* Caixas didáticas (rótulo .rot) */
+.ponto-chave, .pegadinha, .fundamento, .dica { margin: 1em 0; padding: .6em .9em; border-left: .35em solid #888; page-break-inside: avoid; }
+.ponto-chave { border-color: #1f5fa8; background: #eef4fb; }
+.pegadinha   { border-color: #b3261e; background: #fcefee; }
+.fundamento  { border-color: #3a6b35; background: #eef6ed; }
+.dica        { border-color: #a36b00; background: #fdf5e6; }
+.ponto-chave > .rot, .pegadinha > .rot, .fundamento > .rot, .dica > .rot { display: block; font-weight: bold; font-size: .8em; letter-spacing: .08em; text-transform: uppercase; margin-bottom: .2em; }
+
+/* Questões e comentários */
+.questao { margin: 1.2em 0; padding: .7em .9em; border: 1px solid #999; page-break-inside: avoid; }
+.questao .proc { font-size: .85em; color: #444; margin-bottom: .5em; }
+.questao ol.alt { list-style-type: upper-alpha; margin: .4em 0 .6em 1.2em; padding: 0; text-align: left; }
+.comentario { margin: 1.2em 0; padding: .5em .9em; border-left: .35em solid #556; page-break-inside: avoid; }
+.comentario h3 { border-bottom: 1px solid #bbb; }
+.nav-q { font-size: .85em; text-align: right; margin: 0; }
+.gabarito { font-weight: bold; }
+
+/* Quadros e tabelas */
+table.quadro { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: .92em; }
+table.quadro th, table.quadro td { border: 1px solid #999; padding: .35em .5em; vertical-align: top; text-align: left; }
+table.quadro th { background: #e8e8e8; }
+figure { margin: 1em 0; text-align: center; page-break-inside: avoid; }
+figure img { max-width: 100%; }
+figcaption { font-size: .85em; color: #444; }
+
+/* Glossário */
+.glossario dt { font-weight: bold; margin-top: .6em; }
+.glossario dd { margin: 0 0 .4em 1.2em; }
+
+/* Capa */
+.capa h1 { page-break-before: auto; text-align: center; margin-top: 25%; line-height: 1.3; }
+.capa p { text-align: center; }
+
+/* Sumário */
+nav ol { list-style: none; padding-left: 1em; }
+nav ol ol { padding-left: 1em; font-size: .95em; }
